@@ -1,0 +1,43 @@
+_repo: You-can-t-win_69404
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Herrick, Robert
+    alias: Herrick, Robert Welch
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '2657'
+    url: http://www.gutenberg.org/2009/agents/2657
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)
+creator:
+  author:
+    agent_name: Black, Jack
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '55244'
+    url: http://www.gutenberg.org/2009/agents/55244
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Black_(author)
+description: 'Wikipedia: https://en.wikipedia.org/wiki/You_Can%27t_Win_(book)'
+gutenberg_issued: '2022-11-22'
+identifiers:
+  gutenberg: '69404'
+  lccn: '26017437'
+language: en
+pgterms:marc904: https://archive.org/details/youcantwin0000jack/youcantwin0000jack
+pgterms:marc905: 20221102111014black
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Joshua Lund (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United States: The Macmillan Company,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Canada -- Biography'
+- !lcsh 'Black, Jack, 1871-1932'
+- !lcsh 'Criminals -- United States -- Biography'
+- !lcc 'HV'
+- GITenberg
+title: You can't win
+url: http://www.gutenberg.org/ebooks/69404
