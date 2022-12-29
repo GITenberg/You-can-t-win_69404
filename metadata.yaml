@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '2657'
     url: http://www.gutenberg.org/2009/agents/2657
     wikipedia: https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)
+covers:
+- cover_type: archival
+  image_path: 69404-h/images/cover.jpg
 creator:
   author:
     agent_name: Black, Jack
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55244
     wikipedia: https://en.wikipedia.org/wiki/Jack_Black_(author)
 description: 'Wikipedia: https://en.wikipedia.org/wiki/You_Can%27t_Win_(book)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69404#You-can-t-win
 gutenberg_issued: '2022-11-22'
 identifiers:
   gutenberg: '69404'
